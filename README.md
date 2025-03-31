@@ -9,7 +9,7 @@ Welcome! This is where I turn messy data into stories, patterns, and useful answ
 
 ### Project 1
 - Descriptions
-- Links
+- [Theme Park Queue Times Project](https://github.com/kvsgouker/540FinalProject)
 
 ### Project 2
 - Descriptions
