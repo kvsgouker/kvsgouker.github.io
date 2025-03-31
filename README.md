@@ -3,6 +3,8 @@
 ## About Me
 Welcome! This is where I turn messy data into stories, patterns, and useful answers. From digging through numbers to building models, these projects show how I make sense of the noise - and have a little fun along the way.
 
+# Portfolio
+
 ## Projects
 
 ### Project 1
