@@ -5,35 +5,35 @@ Welcome! This is where I turn messy data into stories, patterns, and useful answ
 
 ## Projects
 ### Project 1
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 2
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 3
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 4
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 5
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 6
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 7
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 8
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 9
--Descriptions
--Links
+- Descriptions
+- Links
 ### Project 10
--Descriptions
--Links
+- Descriptions
+- Links
 
 ## Education
 - Bellevue University
