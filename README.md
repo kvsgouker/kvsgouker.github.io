@@ -8,7 +8,7 @@ Welcome! This is where I turn messy data into stories, patterns, and useful answ
 ## Projects
 
 ### Project 1
-- Descriptions
+- A comprehensive data integration and analysis project combining web-scraped data, SQL databases, and API calls to study global amusement park attendance and roller coaster characteristics. The project merges information from Wikipedia, Queue Times API, and the Roller Coaster Database, resolving inconsistencies across datasets to build a unified theme park dataset.
 - [Theme Park Queue Times Project](https://github.com/kvsgouker/540FinalProject)
 
 ### Project 2
