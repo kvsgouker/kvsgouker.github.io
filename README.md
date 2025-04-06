@@ -26,7 +26,7 @@ Welcome! This is where I turn messy data into stories, patterns, and useful answ
 ### [Project 7: The Statistical Reality of the NBA Draft](https://github.com/kvsgouker/final-project-portfolio/tree/main/basketball-win-shares)
 - An in-depth analysis of NBA draft efficiency and team performance from 1981 to 2023. Using Python, SQLite, and custom metrics, this project examines player impact, draft value, franchise spending, and postseason success, revealing the hidden patterns behind successful (and costly) teams.
 
-### [Project 8: Political Migration and Its Electoral Impact: A Data-Driven Study](https://github.com/kvsgouker/final-project-portfolio/tree/main/political-trend-project)
+### [Project 8: Political Migration and Its Electoral Impact: A Data-Driven Study](https://github.com/kvsgouker/final-project-portfolio/tree/main/political-migration-project)
 - This project analyzes how internal U.S. migration affects political outcomes in battleground states. Using IRS migration data and election results, I built an R-based model to estimate partisan shifts from 2011 to 2020, highlighting how relocation patterns shape elections.
 
 ### [Project 9: Weather App: Python + OpenWeatherMap](https://github.com/kvsgouker/final-project-portfolio/tree/main/weather)
