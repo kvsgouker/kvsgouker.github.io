@@ -13,7 +13,6 @@ Welcome! This is where I turn messy data into stories, patterns, and useful answ
 
 ### [Project 3: Does Tanking Pay? The Hidden Costs of Losing in the NBA](https://github.com/kvsgouker/final-project-portfolio/tree/main/basketball-tanking-costs)
 - This project investigates whether NBA teams suffer hidden financial and fan engagement costs when deliberately losing (tanking) to secure better draft picks. Using regression analysis on decades of data, it reveals that while attendance often holds steady due to loyal fans, tanking risks revenue stagnation and brand damage—especially for small-market teams.
-- Link
 
 ### [Project 4: Forecasting TV Series Success with Machine Learning](https://github.com/kvsgouker/final-project-portfolio/tree/main/imdb-project)
 - This project builds predictive models to forecast television series success using Nielsen ratings, IMDb data, social media sentiment, and streaming statistics. Combining web scraping, API data, and machine learning (Random Forests, Extra Trees, Mixed Linear Models), it predicts ratings, audience size, and cancellation risk with high accuracy.
