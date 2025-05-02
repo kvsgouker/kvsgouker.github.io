@@ -1,6 +1,6 @@
 # Data, Me, and Everything
 
-## About Me
+# About Me
 Welcome! This is where I turn messy data into stories, patterns, and useful answers. From digging through numbers to building models, these projects show how I make sense of the noise - and have a little fun along the way.
 
 # Portfolio
@@ -35,6 +35,8 @@ Welcome! This is where I turn messy data into stories, patterns, and useful answ
 ### [Project 10: Thrill Rides vs. Themed Lands: A Trend Analysis](https://github.com/kvsgouker/final-project-portfolio/tree/main/theme-parks-vs-amusement-parks)
 - An exploratory PowerPoint project analyzing theme park trends using Google Trends data. This project compares the popularity of thrill coasters versus themed lands, highlighting early skills in data visualization, trend mapping, and interpreting regional interest patterns.
 
-## Education
+# Education
 - Bellevue University
 
+# Contact
+- Email: kvsgouker@gmail.com
