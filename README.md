@@ -37,6 +37,7 @@ Welcome! I am a young data scientist ready to turn messy data into stories, patt
 
 ## Education
 Bellevue University Class of 2025
+MS Data Science
 
 ## Contact
 Email: kvsgouker@gmail.com
