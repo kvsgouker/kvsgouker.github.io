@@ -36,7 +36,7 @@ Welcome! I am a young data scientist ready to turn messy data into stories, patt
 - An exploratory PowerPoint project analyzing theme park trends using Google Trends data. This project compares the popularity of thrill coasters versus themed lands, highlighting early skills in data visualization, trend mapping, and interpreting regional interest patterns.
 
 ## Education
-Bellevue University Class of 2025
+Bellevue University Class of 2025 <br>
 MS Data Science
 
 ## Contact
