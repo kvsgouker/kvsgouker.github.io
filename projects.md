@@ -1,3 +1,9 @@
+---
+layout: page
+title: Work/Projects
+permalink: /projects/
+---
+
 ## Work/Projects
 
 ### Project 1: To Be Announced
