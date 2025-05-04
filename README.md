@@ -1,3 +1,5 @@
+[About Me](/about/) | [Work / Projects](/projects/) | [Education](/education/) | [Contact](/contact/)
+
 # Data, Me, and Everything
 
 ## About Me
