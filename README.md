@@ -7,7 +7,8 @@ Welcome! I am a young data scientist ready to turn messy data into stories, patt
 
 ### Project 1: To Be Announced
 
-### Project 2: To Be Announced
+### Project 2: Beyond the Hype: Predicting Film Success from Historical Data
+- This project uses regression and classification build a predictive model that predetermines a film’s success from factors known before green-lighting production, so studios and stars can make better choices about where and how to invest their resources. It reveals that while historical star power correlates with future success, budget is ultimately the most important indicator of whether a film is a financial success or failure.
 
 ### [Project 3: Does Tanking Pay? The Hidden Costs of Losing in the NBA](https://github.com/kvsgouker/final-project-portfolio/tree/main/basketball-tanking-costs)
 - This project investigates whether NBA teams suffer hidden financial and fan engagement costs when deliberately losing (tanking) to secure better draft picks. Using regression analysis on decades of data, it reveals that while attendance often holds steady due to loyal fans, tanking risks revenue stagnation and brand damage—especially for small-market teams.
