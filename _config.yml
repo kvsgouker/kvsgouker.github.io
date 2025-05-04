@@ -2,13 +2,3 @@ title: Kyle Salgado-Gouker
 logo: docs/assets/BellevuePortfolioPicture.png
 description: Data Scientist
 theme: jekyll-theme-minimal
-
-nav:
-  - title: "About Me"
-    url: /about/
-  - title: "Work/Projects"
-    url: /projects/
-  - title: "Education"
-    url: /education/
-  - title: "Contact"
-    url: /contact/
