@@ -5,7 +5,8 @@ Welcome! I am a young data scientist ready to turn messy data into stories, patt
 
 ## Work/Projects
 
-### Project 1: To Be Announced
+### [Project 1: Standardizing Injury Reporting in U.S. Theme Parks: A Data Science Approach](https://github.com/kvsgouker/final-project-portfolio/tree/main/theme-park-injury-reporting)
+- 
 
 ### [Project 2: Beyond the Hype: Predicting Film Success from Historical Data](https://github.com/kvsgouker/final-project-portfolio/tree/main/star-power)
 - This project uses regression and classification build a predictive model that predetermines a film’s success from factors known before green-lighting production, so studios and stars can make better choices about where and how to invest their resources. It reveals that while historical star power correlates with future success, budget is ultimately the most important indicator of whether a film is a financial success or failure.
